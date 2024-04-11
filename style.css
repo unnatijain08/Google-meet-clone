@@ -1,0 +1,136 @@
+*{
+    margin:0%;
+    padding:0%; 
+    font-family: Arial, Helvetica, sans-serif ; 
+}
+#logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#meet{
+     font-size: 22px;
+     margin-bottom:2px;
+     color:#5F6368;
+     margin-left:2px;
+     text-decoration: underline;  
+}
+#whole2{
+    display: flex;
+    flex-direction:row ;  
+    justify-content: space-around;
+    color: #5F6368;  
+}
+#whole1{
+    display: flex;
+    flex-direction:row ;  
+    justify-content: space-between;  
+}
+#navthings{
+    padding:20px;
+}
+#samay{
+    margin-right: 20px;
+    font-size: x-large;
+}
+#question{
+   margin-right:20px;
+}
+#query{
+    margin-right: 20px;
+}
+#setting{
+    margin-right: 20px;
+}
+#dots{
+    margin-right: 20px;
+}
+#profile{
+    margin-right: 20px;
+}
+#meet:hover{
+    cursor: pointer;
+}
+#bada{
+    display: flex;
+   padding: 100px;
+}
+#first{
+    flex: 1;    
+} 
+#second{
+    flex: 1; 
+}
+#f1{
+    color:#212121;
+    font-weight: 500;
+    font-size: 40px;
+}
+#f2{
+    color:#939599;
+    font-weight:44px;
+    font-size: 20px;
+    margin-top: 5.8%;
+    margin-bottom: 6%;  
+}
+#new{
+    background-color: #3C73E9;
+    color: #ffffff;
+    border: transparent ;
+    border-radius: 6%;
+    padding:2.8%;   
+}
+#ekaur{
+    background-color:#ffffff ;
+    color: #84878B;
+    border-color: #80868B;
+    border-width: 1px;
+    border-radius: 6%;
+    margin-left:45px;
+    padding:2.8%;
+}
+#l1{
+    margin-top: 7%;
+    color: #80868B;
+    font-weight: 200;
+}
+
+#picnic{
+    margin-left: 30%;
+    width: 250px;
+    height:auto;
+     
+}
+#lane1{
+    color:#787878;
+    margin-left: 29%;
+    font-weight: 250;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+#lane2{
+    color:#6d6d6d;
+    font-weight: 100;
+    font-size: larger;
+    margin-left: 17%;
+    margin-bottom: 2px;
+}
+#s2{
+    color:#6d6d6d;
+    font-weight: 100;
+    font-size: larger;
+    margin-left: 35%;
+}
+hr{
+    margin-top: 5%;
+    max-width:80%;
+}
+#join{
+    border: transparent;
+    background-color: #ffffff;
+    margin-left: 5%;
+    font-size: large;
+    color: #84878B;
+
+}
+
